@@ -1,0 +1,15 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Node
+dashboard/node_modules/
+dashboard/dist/
+
+# Mac
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
