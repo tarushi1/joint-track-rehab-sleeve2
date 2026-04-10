@@ -1,6 +1,0 @@
-streamlit
-pyserial
-pandas
-plotly
-streamlit-extras
-streamlit-plotly-events
